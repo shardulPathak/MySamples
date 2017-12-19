@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toasty Sample</string>
+    <string name="info_text">Information</string>
+    <string name="warn_text">Warning</string>
+    <string name="err_text">Error</string>
+    <string name="success_text">Success</string>
+    <string name="success_without_icon_text">Success without Icon</string>
+</resources>
