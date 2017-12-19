@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdMob Sample</string>
+    <string name="welcome_message">Welcome to the AdMob Sample. Click on the below button to show Interstitial Ad.</string>
+    <string name="banner_home_footer">ca-app-pub-5601792448289087/7535678353</string>
+    <string name="interstitial_ad_id">ca-app-pub-5601792448289087/2048861036</string>
+
+</resources>
